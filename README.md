@@ -12,6 +12,7 @@ No libraries for this repo
 ## GenAI Tools  
 
 [My NotebookLM](https://notebooklm.google.com/notebook/72bc559f-afef-44ec-a125-d06143456bd0)
+[UA GenAI Tools](https://responsibleai.arizona.edu/u-of-a-gen-ai)
 
 ## 📂 Folder Contents
 
