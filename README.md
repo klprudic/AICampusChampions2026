@@ -15,5 +15,5 @@ No libraries for this repo
 
 ## 📂 Folder Contents
 
-1.  ***documents:*** Contains the following documents:
-2.  ***images:*** Contains the following documents:
+1.  ***Documents:*** Contains the following documents:
+2.  ***Images:*** Contains the following documents:
