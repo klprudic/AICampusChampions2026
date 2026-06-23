@@ -4,20 +4,27 @@
 
 ## 🦋 Summary
 
-This repository stores materials for my participation in the 2026 University of Arizona AI Campus Campions Program. 
+This repository stores materials for my participation in the 2026 University of Arizona AI Campus Champions Program. 
 There are 6 Modules in this workshop. 
 My activities for each module is found in this repo's wiki. 
 
++ Module 1 *AI Foundations*
++ Module 2 *Generative AI*
++ Module 3 *AI for Productivity*
++ Module 4 *Critical Thinking abbout AI*
++ Module 5 *AI Governance*
++ Module 6 *AI Campus Champions* 
+
 ## 📚 Libraries
 
-No libraries for this repo
+There are *no* libraries for this repo
 
 ## :octocat: GenAI Tools  
 
-1. [My NotebookLM](https://notebooklm.google.com/notebook/72bc559f-afef-44ec-a125-d06143456bd0)
-2. [UA GenAI Tools](https://responsibleai.arizona.edu/u-of-a-gen-ai)
++ [My NotebookLM](https://notebooklm.google.com/notebook/72bc559f-afef-44ec-a125-d06143456bd0)
++ [UA GenAI Tools](https://responsibleai.arizona.edu/u-of-a-gen-ai)
 
 ## 📂 Folder Contents
 
-1.  ***Documents:*** Contains the following documents:
-2.  ***Images:*** Contains the following images:
++  ***Documents:*** Contains the following documents:
++  ***Images:*** Contains the following images:
