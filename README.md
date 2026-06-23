@@ -4,6 +4,10 @@
 
 ## 🐝 Summary
 
+This repository stores materials for my participation in the 2026 University of Arizona AI Campus Campions Program. 
+There are 6 Modules in this workshop. 
+My activities for each module is found in this repo's wiki. 
+
 ## 📚 Libraries
 
 No libraries for this repo
