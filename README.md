@@ -20,4 +20,4 @@ No libraries for this repo
 ## 📂 Folder Contents
 
 1.  ***Documents:*** Contains the following documents:
-2.  ***Images:*** Contains the following documents:
+2.  ***Images:*** Contains the following images:
