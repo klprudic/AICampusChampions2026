@@ -6,7 +6,7 @@
 
 This repository stores materials for my participation in the 2026 University of Arizona AI Campus Champions Program. 
 There are 6 Modules in this workshop. 
-My activities for each module is found in this repo's wiki. 
+My activities for each module is found in [this repo's wiki](https://github.com/klprudic/AICampusChampions2026/wiki/Prudic-AI-Campus-Champions-2026-Wiki). 
 
 + Module 1 *AI Foundations*
 + Module 2 *Generative AI*
