@@ -19,7 +19,7 @@ My activities for each module is found in [this repo's wiki](https://github.com/
 
 There are *no* libraries for this repo
 
-## :octocat: GenAI Tools  
+## 🧞: GenAI Tools  
 
 + [My NotebookLM](https://notebooklm.google.com/notebook/72bc559f-afef-44ec-a125-d06143456bd0)
 + [UA GenAI Tools](https://responsibleai.arizona.edu/u-of-a-gen-ai)
