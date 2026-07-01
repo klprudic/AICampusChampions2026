@@ -2,7 +2,7 @@
 *My repo for the [2026 University of Arizona AI Campus Champions Program](https://tinyurl.com/AICampusChampions)*
 
 
-## 🦋 Summary
+## :octocat: Summary
 
 This repository stores materials for my participation in the 2026 University of Arizona AI Campus Champions Program. 
 There are 6 Modules in this workshop. 
