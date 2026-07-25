@@ -13,7 +13,8 @@ My activities for each module is found in [this repo's wiki](https://github.com/
 + [Module 3 *AI for Productivity*](https://github.com/klprudic/AICampusChampions2026/wiki/Module-3-%E2%80%90-AI-For-Productivity)
 + [Module 4 *Critical Thinking abbout AI*](https://github.com/klprudic/AICampusChampions2026/wiki/Module-4-%E2%80%90-Critical-Thinking-About-AI)
 + [Module 5 *AI Governance*](https://github.com/klprudic/AICampusChampions2026/wiki/Module-5-%E2%80%90-AI-Governance)
-+ [Module 6 *AI Campus Champions*](https://github.com/klprudic/AICampusChampions2026/wiki/Module-6-%E2%80%90-Becoming-An-AI-Campus-Champion) 
++ [Module 6 *AI Campus Champions*](https://github.com/klprudic/AICampusChampions2026/wiki/Module-6-%E2%80%90-Becoming-An-AI-Campus-Champion)
++ [Capstone Project *GenAI Assignment and Aaccoutrements for Film Studies GenEd Course*]()
 
 ## 📚 Libraries
 
@@ -26,5 +27,5 @@ There are *no* libraries for this repo
 
 ## 📂 Folder Contents
 
-+  ***Documents*** contains the following documents: Folder Holder.docx
++  ***Documents*** contains the following documents: AIChamps-Description.pdf, AIChamps-Application.pdf, Capstone-Instructions.pdf, Capstone-Example.pdf, Capstone-Rubric.pdf, Capstone-UseGuidelines.pdf 
 +  ***Images*** contains the following images: GenAI-InstructionsTools.png, PersonalGenAIWorkflow.png, DesignWorkflow2.jpeg, ConceptMapDraft.png, ConceptMap-M6-Prudic.png
