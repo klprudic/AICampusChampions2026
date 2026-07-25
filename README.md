@@ -14,7 +14,7 @@ My activities for each module is found in [this repo's wiki](https://github.com/
 + [Module 4 *Critical Thinking abbout AI*](https://github.com/klprudic/AICampusChampions2026/wiki/Module-4-%E2%80%90-Critical-Thinking-About-AI)
 + [Module 5 *AI Governance*](https://github.com/klprudic/AICampusChampions2026/wiki/Module-5-%E2%80%90-AI-Governance)
 + [Module 6 *AI Campus Champions*](https://github.com/klprudic/AICampusChampions2026/wiki/Module-6-%E2%80%90-Becoming-An-AI-Campus-Champion)
-+ [Capstone Project *GenAI Assignment and Aaccoutrements for Film Studies GenEd Course*]()
++ [Capstone Project *GenAI Assignment and Aaccoutrements for Film Studies GenEd Course*](https://github.com/klprudic/AICampusChampions2026/wiki/Capstone-Project)
 
 ## 📚 Libraries
 
